@@ -2,6 +2,7 @@ body {
 font-family: "Poppins", "sans-serif";
 }
 
-.nav {
+.Nav {
 background-color:rgb(90,90,20);
+padding-top: 2rem;
 }
